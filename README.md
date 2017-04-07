@@ -109,12 +109,12 @@ I had worked on fixing and upgrading company’s own web-hosting panel called We
 
 ## Projects done
 
-* Siftia.com
-* Sellcast.com
-* Sneakerplay.com
+* ~~Siftia.com~~
+* ~~Sellcast.com~~
+* ~~Sneakerplay.com~~
 * Scancafe.com
 * Gra-nat.com.ua
-* BharatInternational.net
+* ~~BharatInternational.net~~
 * Kinokritik.com
 * Runashop.com
 * Momowallet.com
