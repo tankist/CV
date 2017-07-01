@@ -14,8 +14,8 @@ $3,500
 
 ### Summary
 
-* More than 10 years of experience in software and information systems projects development, software development, networking and Internet systems development. Leader and senior developer in various software projects for different branches of industry and business. 
-* More than 4 years responsible for high code quality architecture, planning, scheduling, task sequencing, quality control, risk assessment and communication with project stakeholders. 
+* More than 11 years of experience in software and information systems projects development, software development, networking and Internet systems development. Leader and senior developer in various software projects for different branches of industry and business. 
+* More than 5 years responsible for high code quality architecture, planning, scheduling, task sequencing, quality control, risk assessment and communication with project stakeholders. 
 * Track record of increasing responsibility in software design, systems analysis, development, de-sign deployment strategies and full lifecycle project management. 
 * Hands-on experience leading all stages of system development efforts. 
 * Extensive experience in architecture and developing web applications for desktop and mobile devices. 
@@ -37,7 +37,7 @@ $3,500
 * Database architecture and querying 
 * Unit, functional and acceptance testing using Codeception/PhpUnit/CasperJS
 * Front-end web development
-* Systems integrations and API creation (REST-based), experience with lots of open-source systems 
+* Systems integrations and API creation (REST-based and GraphQL-based), experience with lots of open-source systems 
 * Algorithms, data security, data protection 
 
 ### Primary Responsibilities in Preceding Period
@@ -55,22 +55,47 @@ $3,500
 ### Skills
 
 * OOP
+* Node.js, ES5, ES6, TypeScript
+* VueJS
 * PHP
 * JS, jQuery, AJAX, HTML, CSS, Bootstrap
-* AWS
-* MySQL, PostgreSQL
-* Zend Framework (1/2)
-* Phalcon Framework
-* Yii 1.x, Silex
-* Node.js
 * ExtJS
+* AWS
+* MySQL, PostgreSQL, MongoDb, CouchDB
+* Zend Framework (1/2)
+* Phalcon Framework (1/2/3)
+* Yii 1.x, Silex
 * Unit Testing, Codeception, CasperJS
 * Design Patterns
-* REST, SOAP
+* REST, SOAP, GraphQL
 * Redmine, JIRA
 * GIT, SVN
 
 ## Work Experience
+
+### As a freelancer
+
+_May 2017 - Present_
+
+NDA social gaming project
+
+* Backend Node.JS with Typescript based on GraphQL
+* Frontend VueJS with ES6, components and general development
+
+_May 2017 - June 2017_
+
+LigaUpdate.com
+
+Social networking monitoring and aggregation service focused on football/soccer. Worked with external team on two topics:
+
+* NodeJS websocket real-time updates engine (ES5)
+* AWS set-up or autoscaling with application load balancer for webscket engine and main website
+
+_July 2016 - Present_
+
+Momowallet.com
+
+Deals aggregation site for moms in US. Mainly consists of iOS application and PHP backend. Since the end of 2016 soft migration to VueJS in admin backend is in progress. Previously it was written with raw HTML+jQuery, was slow and not flexible.
 
 ### Team Lead / Senior PHP Developer for Brightgrove, Kharkov
 
@@ -86,6 +111,8 @@ Comparison shopping service. System features: searching, comparing, selection an
 Technologies used: PHP7 (Phalcon, Guzzle), Elasticsearch, Memcached, MySQL, MailChimp, Amazon (S3, SQS, ELB, EB, CFN, EC2, RDS), JavaScript (jQuery, Grunt, etc.), AJAX ,Nginx, RabbitMQ, HTML/HTML5, CSS/CSS3, LESS, PHPUnit, Codeception, Composer, Npm
 
 Starting from 2011 we are developing single product-comparison service for our Germany-based customer. Started from team of 2 PHP devs we created first prototype in early 2012 and released at fall 2012. In 2013 team was about 5 devs, in 2014 - 7 devs. First version was created with ZF1, but in 2014 it was refactored with Phalcon. During that years I have introduced Scrum techniques in the team, customer needs focused development. Currently our project is a high load service with ~1 mln visits per day. Also I was responsible for AWS deployments. We have successfully implemented AWS auto-scaling and continuous deployment. Source code was covered by unit tests with approx. coverage ~70%.
+
+For the last 6 month we started to move critical parts of the system (API proxyfication and aggregation) to the NodeJS engine to provide highest throughput and availability.
 
 ### Web-developer, Team-lead for Skaya, Nikolaev
 
@@ -118,6 +145,7 @@ I had worked on fixing and upgrading company’s own web-hosting panel called We
 * Kinokritik.com
 * Runashop.com
 * Momowallet.com
+* Ligaupdate.com
 
 ## Education
 
