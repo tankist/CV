@@ -1,6 +1,6 @@
 # Victor Gryshko
 
-## Team Lead / Senior PHP Developer
+## Team Lead / Senior PHP Developer / Node.JS developer
 
 ### Contacts
 
@@ -97,7 +97,7 @@ Momowallet.com
 
 Deals aggregation site for moms in US. Mainly consists of iOS application and PHP backend. Since the end of 2016 soft migration to VueJS in admin backend is in progress. Previously it was written with raw HTML+jQuery, was slow and not flexible.
 
-### Team Lead / Senior PHP Developer for Brightgrove, Kharkov
+### Team Lead / Senior PHP Developer / Node.JS developer for Brightgrove, Kharkov
 
 _August 2011 – Present_
 
@@ -108,9 +108,9 @@ Comparison shopping service. System features: searching, comparing, selection an
 * Team member’s integration and management, 
 * Scrum techniques application.
 
-Technologies used: PHP7 (Phalcon, Guzzle), Elasticsearch, Memcached, MySQL, MailChimp, Amazon (S3, SQS, ELB, EB, CFN, EC2, RDS), JavaScript (jQuery, Grunt, etc.), AJAX ,Nginx, RabbitMQ, HTML/HTML5, CSS/CSS3, LESS, PHPUnit, Codeception, Composer, Npm
+Technologies used: PHP7 (Phalcon, Guzzle), Elasticsearch, Memcached, MySQL, MailChimp, Amazon (S3, SQS, ELB, EB, CFN, EC2, RDS), JavaScript (jQuery, Grunt, etc.), AJAX, Nginx, RabbitMQ, HTML/HTML5, CSS/CSS3, LESS, PHPUnit, Codeception, Composer, Npm, Yarn, Node.JS, pm2
 
-Starting from 2011 we are developing single product-comparison service for our Germany-based customer. Started from team of 2 PHP devs we created first prototype in early 2012 and released at fall 2012. In 2013 team was about 5 devs, in 2014 - 7 devs. First version was created with ZF1, but in 2014 it was refactored with Phalcon. During that years I have introduced Scrum techniques in the team, customer needs focused development. Currently our project is a high load service with ~1 mln visits per day. Also I was responsible for AWS deployments. We have successfully implemented AWS auto-scaling and continuous deployment. Source code was covered by unit tests with approx. coverage ~70%.
+Starting from 2011 we are developing single product-comparison service for our Germany-based customer. Complex backend gives our customer ability to create different price comparison portals with different designs and structure. More then 200 different parameters could be tuned. Existing functionality could be slightly improved using plugins engine. Started from team of 2 PHP devs we created first prototype in early 2012 and released at fall 2012. In 2013 team was about 5 devs, in 2014 - 7 devs. First version was created with ZF1, but in 2014 it was refactored with Phalcon. During that years I have introduced Scrum techniques in the team, customer needs focused development. Currently our project is a high load service with ~1 mln visits per day. Also I was responsible for AWS deployments. We have successfully implemented AWS auto-scaling and continuous deployment. Source code was covered by unit tests with approx. coverage ~70%.
 
 For the last 6 month we started to move critical parts of the system (API proxyfication and aggregation) to the NodeJS engine to provide highest throughput and availability.
 
