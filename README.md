@@ -8,10 +8,6 @@
 * __Skype__: victor.gryshko
 * __Mail__: [victor.gryshko@gmail.com](mailto:victor.gryshko@gmail.com)
 
-### Minimum desired salary
-
-$3,500
-
 ### Summary
 
 * More than 11 years of experience in software and information systems projects development, software development, networking and Internet systems development. Leader and senior developer in various software projects for different branches of industry and business. 
