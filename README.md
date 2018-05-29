@@ -1,6 +1,6 @@
 # Victor Gryshko
 
-## Team Lead / Senior PHP Developer / Node.JS developer
+## Team Lead / Node.JS developer / Senior PHP Developer
 
 ### Contacts
 
@@ -10,8 +10,8 @@
 
 ### Summary
 
-* More than 11 years of experience in software and information systems projects development, software development, networking and Internet systems development. Leader and senior developer in various software projects for different branches of industry and business. 
-* More than 5 years responsible for high code quality architecture, planning, scheduling, task sequencing, quality control, risk assessment and communication with project stakeholders. 
+* More than 12 years of experience in software and information systems projects development, software development, networking and Internet systems development. Leader and senior developer in various software projects for different branches of industry and business. 
+* More than 6 years responsible for high code quality architecture, planning, scheduling, task sequencing, quality control, risk assessment and communication with project stakeholders. 
 * Track record of increasing responsibility in software design, systems analysis, development, de-sign deployment strategies and full lifecycle project management. 
 * Hands-on experience leading all stages of system development efforts. 
 * Extensive experience in architecture and developing web applications for desktop and mobile devices. 
@@ -52,11 +52,13 @@
 
 * OOP
 * Node.js, ES5, ES6, TypeScript
-* VueJS
+* VueJS, Vuex
 * PHP
+* Express, HAPI.js, Swager, Apollo GraphQL
 * JS, jQuery, AJAX, HTML, CSS, Bootstrap
 * ExtJS
-* AWS
+* AWS, Firebase
+* Cloudformation, Docker, ECS
 * MySQL, PostgreSQL, MongoDb, CouchDB
 * Zend Framework (1/2)
 * Phalcon Framework (1/2/3)
@@ -93,9 +95,16 @@ Momowallet.com
 
 Deals aggregation site for moms in US. Mainly consists of iOS application and PHP backend. Since the end of 2016 soft migration to VueJS in admin backend is in progress. Previously it was written with raw HTML+jQuery, was slow and not flexible.
 
-### Team Lead / Senior PHP Developer / Node.JS developer for Brightgrove, Kharkov
+### Team Lead / Node.JS developer / Senior PHP Developer for Brightgrove, Kharkov
 
-_August 2011 – Present_
+_January 2018 – Present_
+
+Pluto.tv - Internet-based TV platform. Pluto TV runs as an app on 14 platforms,[4] including AppleTV, Android TV, Amazon Fire TV, Chromecast, Roku, and PlayStation consoles. As of May 2017, the service was averaging 6 million users per month 
+
+* API development and support
+* AWS infrastructure development (Cloudformation, ECS)
+
+_August 2011 – December 2017_
 
 Comparison shopping service. System features: searching, comparing, selection and ordering of deals from different API.
 
@@ -135,13 +144,15 @@ I had worked on fixing and upgrading company’s own web-hosting panel called We
 * ~~Siftia.com~~
 * ~~Sellcast.com~~
 * ~~Sneakerplay.com~~
-* Scancafe.com
-* Gra-nat.com.ua
+* [Scancafe.com](http://Scancafe.com)
+* [Gra-nat.com.ua](http://Gra-nat.com.ua)
 * ~~BharatInternational.net~~
-* Kinokritik.com
-* Runashop.com
-* Momowallet.com
-* Ligaupdate.com
+* [Kinokritik.com](http://Kinokritik.com)
+* [Runashop.com](http://Runashop.com)
+* [Reduto.com](http://reduto.com)
+* [Momowallet.com](http://Momowallet.com)
+* [Ligaupdate.com](http://Ligaupdate.com)
+* [Pluto.tv](http://Pluto.tv)
 
 ## Education
 
