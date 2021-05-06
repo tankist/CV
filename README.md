@@ -1,17 +1,18 @@
 # Victor Gryshko
 
-## Team Lead / Node.JS developer / Senior PHP Developer
+## Team Lead / Golang developer / Node.JS developer / ~~Senior PHP Developer~~
 
 ### Contacts
 
+* __Telegram__: +380931045468 (@galadamor)
 * __Phone__: +380931045468
-* __Skype__: victor.gryshko
 * __Mail__: [victor.gryshko@gmail.com](mailto:victor.gryshko@gmail.com)
+* __Skype__: victor.gryshko (rarely)
 
 ### Summary
 
-* More than 12 years of experience in software and information systems projects development, software development, networking and Internet systems development. Leader and senior developer in various software projects for different branches of industry and business. 
-* More than 6 years responsible for high code quality architecture, planning, scheduling, task sequencing, quality control, risk assessment and communication with project stakeholders. 
+* More than 14 years of experience in software and information systems projects development, software development, networking and Internet systems development. Leader and senior developer in various software projects for different branches of industry and business. 
+* Almost 10 years responsible for high code quality architecture, planning, scheduling, task sequencing, quality control, risk assessment and communication with project stakeholders. 
 * Track record of increasing responsibility in software design, systems analysis, development, de-sign deployment strategies and full lifecycle project management. 
 * Hands-on experience leading all stages of system development efforts. 
 * Extensive experience in architecture and developing web applications for desktop and mobile devices. 
@@ -48,32 +49,77 @@
 * Business logic backend design and development 
 * Performance profiling and optimization
 
-### Skills
+### Skills (General and Node.js/Golang/Devops related)
 
 * OOP
-* Node.js, ES5, ES6, TypeScript
-* VueJS, Vuex
-* PHP
-* Express, HAPI.js, Swager, Apollo GraphQL
-* JS, jQuery, AJAX, HTML, CSS, Bootstrap
-* ExtJS
-* AWS, Firebase
-* Cloudformation, Docker, ECS
-* MySQL, PostgreSQL, MongoDb, CouchDB
-* Zend Framework (1/2)
-* Phalcon Framework (1/2/3)
-* Yii 1.x, Silex
-* Unit Testing, Codeception, CasperJS
 * Design Patterns
 * REST, SOAP, GraphQL
 * Redmine, JIRA
 * GIT, SVN
+* Node.js, ES5, ES6, TypeScript, Jest, Tape
+* CircleCI, Github Actions
+* VueJS, Vuex, React, Angular 1.x
+* Express, HAPI.js, Swager, Apollo GraphQL
+* jQuery, AJAX, HTML, CSS, Bootstrap
+* ExtJS
+* AWS, Firebase
+* Cloudformation, Docker, ECS, Fargate, EMR
+* Chrome and Firefox extensions development
+* MySQL, PostgreSQL, MongoDb, CouchDB, DynamoDB
+
+### Skills (PHP-related)
+
+* PHP
+* Zend Framework (1/2)
+* Phalcon Framework (1/2/3)
+* Yii 1.x, Silex
+* Unit Testing, Codeception, CasperJS
 
 ## Work Experience
 
+### Team Lead / Golang / Node.JS developer / Senior PHP Developer for Brightgrove, Kharkov
+
+_January 2018 – Present_
+
+Pluto.tv - Internet-based TV platform. Pluto TV runs as an app on 14 platforms,[4] including AppleTV, Android TV, Amazon Fire TV, Chromecast, Roku, and PlayStation consoles. As of May 2017, the service was averaging 6 million users per month.
+
+At the moment Pluto.tv is one of the biggest online-TV platforms across USA market with few millions active users daily. For pluto.tv I worked both on infrastructure and business-related apps, created APIs, CMS systems, planned architecture and mentored young developers.
+
+* API development and support
+* AWS infrastructure development (Cloudformation, ECS)
+* AWS infrastructure disaster recovery, replication
+* worked on both Node.js and Golang stack
+
+AWS Services worked with:
+
+* EC2
+* ECS (both EC2 and Fargate)
+* Cloudformation
+* Lambda
+* Codebuild
+* S3
+* SQS
+* SNS
+* DynamoDB
+* RDS (PostgreSQL, Aurora)
+* ECR
+* EMR
+* Cloudwatch
+
 ### As a freelancer
 
-_May 2017 - Present_
+_August 2018 - Present_
+
+Wikiwand.com
+
+An award-winning beautiful interface for Wikipedia. Used by over 100,000 people worldwide, Wikiwand overhauls Wikipedia's interface, making it more convenient, powerful and beautiful.
+
+* Backend Node.JS development
+* Golang development for high-performance crucial parts of the application
+* Full AWS infrastructure setup based on ElasticBeanstalk and ECS Fargate for Golang parts
+* Chrome and Firefox extensions development
+
+_May 2017 - September 2017_
 
 NDA social gaming project
 
@@ -89,20 +135,13 @@ Social networking monitoring and aggregation service focused on football/soccer.
 * NodeJS websocket real-time updates engine (ES5)
 * AWS set-up or autoscaling with application load balancer for webscket engine and main website
 
-_July 2016 - Present_
+_July 2016 - March 2018_
 
 Momowallet.com
 
 Deals aggregation site for moms in US. Mainly consists of iOS application and PHP backend. Since the end of 2016 soft migration to VueJS in admin backend is in progress. Previously it was written with raw HTML+jQuery, was slow and not flexible.
 
-### Team Lead / Node.JS developer / Senior PHP Developer for Brightgrove, Kharkov
-
-_January 2018 – Present_
-
-Pluto.tv - Internet-based TV platform. Pluto TV runs as an app on 14 platforms,[4] including AppleTV, Android TV, Amazon Fire TV, Chromecast, Roku, and PlayStation consoles. As of May 2017, the service was averaging 6 million users per month 
-
-* API development and support
-* AWS infrastructure development (Cloudformation, ECS)
+### Ancient times :))))
 
 _August 2011 – December 2017_
 
@@ -144,15 +183,16 @@ I had worked on fixing and upgrading company’s own web-hosting panel called We
 * ~~Siftia.com~~
 * ~~Sellcast.com~~
 * ~~Sneakerplay.com~~
-* [Scancafe.com](http://Scancafe.com)
-* [Gra-nat.com.ua](http://Gra-nat.com.ua)
-* ~~BharatInternational.net~~
-* [Kinokritik.com](http://Kinokritik.com)
-* [Runashop.com](http://Runashop.com)
-* [Reduto.com](http://reduto.com)
-* [Momowallet.com](http://Momowallet.com)
-* [Ligaupdate.com](http://Ligaupdate.com)
-* [Pluto.tv](http://Pluto.tv)
+* [Scancafe.com](https://Scancafe.com)
+* ~~gra-nat.com.ua~~
+* ~~bharatInternational.net~~
+* ~~kinokritik.com~~
+* [Runashop.com](https://Runashop.com)
+* [Reduto.com](https://reduto.com)
+* [Momowallet.com](https://Momowallet.com)
+* ~~ligaupdate.com~~
+* [Pluto.tv](https://pluto.tv)
+* [Wikiwand.com](https://www.wikiwand.com)
 
 ## Education
 
