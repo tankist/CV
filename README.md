@@ -7,7 +7,6 @@
 * __Telegram__: +380931045468 (@galadamor)
 * __Phone__: +380931045468
 * __Mail__: [victor.gryshko@gmail.com](mailto:victor.gryshko@gmail.com)
-* __Skype__: victor.gryshko (rarely)
 
 ### Summary
 
@@ -15,7 +14,7 @@
 * Experienced in system design, API architecture, distributed systems, high-load applications, and third-party integrations.
 * Lead teams through planning, task sequencing, mentoring, code review, risk management, and communication with stakeholders.
 * Hands-on across the full delivery lifecycle: requirements, architecture, implementation, deployment, and production support.
-* AI enthusiast focused on practical prototyping and developer productivity with LLM tooling; actively use Claude Code, OpenCode, and Codex in real and pet projects, and experiment with local inference for open-source models.
+* An AI-enthusiast focused on practical prototyping and developer productivity with LLM tooling; actively use Claude Code, OpenCode, and Codex in real and pet projects, and experiment with local inference for open-source models.
 * Upper-intermediate English.
 
 ### Core Expertise
